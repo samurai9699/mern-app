@@ -39,4 +39,4 @@ app.use('/comment',commentRoute,cors());
 
 app.listen(port, () => {
     console.log(`Server running on port ${port}`);
-});
+}); 

@@ -61,4 +61,4 @@ function CommentList({commentList,userDetail,updatePostList}) {
   )
 }
 
-export default CommentList
+export default CommentList 
